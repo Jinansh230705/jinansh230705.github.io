@@ -1,9 +1,7 @@
 ---
 title: Java Cheetsheet
 layout: post
-catergories: |-
-  Java
-  Cheetsheet
+catergories: Java Cheetsheet
 author: Jinansh Mehta
 ---
 

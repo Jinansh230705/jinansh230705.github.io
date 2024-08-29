@@ -55,7 +55,9 @@ whitelist:
   - jekyll-seo-tag
 
 header_pages:
-  - about.markdown
+  - about.md
+
+show_excerpts: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
