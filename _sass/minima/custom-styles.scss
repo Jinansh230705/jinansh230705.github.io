@@ -1,5 +1,13 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@400&display=swap');
+body {
+  font-family: 'Fira Sans', sans-serif;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Fira Sans', sans-serif;
+}
+
 .site-footer {
     padding-bottom: 120px
   }
