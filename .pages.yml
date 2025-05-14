@@ -1,0 +1,19 @@
+name: Jinansh's blog
+root_dir: ./
+collections:
+  - name: Posts
+    folder: _posts
+    format: markdown
+    fields:
+      - name: title
+        type: text
+      - name: date
+        type: datetime
+      - name: body
+        type: markdown
+  - name: Images
+    folder: assets/images
+    format: image
+    fields:
+      - name: alt
+        type: text
